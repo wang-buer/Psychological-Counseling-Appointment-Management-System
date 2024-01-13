@@ -1,9 +1,5 @@
 # 心理咨询预约管理系统2
-## 获取方式
 
-关注公众号： **程序员王不二**，回复关键词  ：**心理2** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 ## 1、项目介绍
@@ -90,49 +86,48 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252207865.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202309252207865.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252207983.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202309252207983.jpg)
 
 ### 4.2 用户模块
 
-![用户-咨询记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208371.jpg)
+![用户-咨询记录](https://www.codeshop.fun/Typora-Images/202309252208371.jpg)
 
-![用户-预约1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208620.jpg)
+![用户-预约1](https://www.codeshop.fun/Typora-Images/202309252208620.jpg)
 
-![用户-预约2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208152.jpg)
+![用户-预约2](https://www.codeshop.fun/Typora-Images/202309252208152.jpg)
 
-![用户-消息记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208934.jpg)
+![用户-消息记录](https://www.codeshop.fun/Typora-Images/202309252208934.jpg)
 
-![用户-我的预约](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208396.jpg)
+![用户-我的预约](https://www.codeshop.fun/Typora-Images/202309252208396.jpg)
 
-![用户-留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208779.jpg)
+![用户-留言](https://www.codeshop.fun/Typora-Images/202309252208779.jpg)
 
 ### 4.3 咨询师模块
 
-![咨询师-咨询记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208583.jpg)
+![咨询师-咨询记录](https://www.codeshop.fun/Typora-Images/202309252208583.jpg)
 
-![咨询师-咨询管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208441.jpg)
+![咨询师-咨询管理](https://www.codeshop.fun/Typora-Images/202309252208441.jpg)
 
-![咨询师-消息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208258.jpg)
+![咨询师-消息管理](https://www.codeshop.fun/Typora-Images/202309252208258.jpg)
 
-![咨询师-申请管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208596.jpg)
+![咨询师-申请管理](https://www.codeshop.fun/Typora-Images/202309252208596.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-后端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208609.jpg)
+![管理员-后端首页](https://www.codeshop.fun/Typora-Images/202309252208609.jpg)
 
-![管理员-咨询师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208394.jpg)
+![管理员-咨询师管理](https://www.codeshop.fun/Typora-Images/202309252208394.jpg)
 
-![管理员-问卷管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208515.jpg)
+![管理员-问卷管理](https://www.codeshop.fun/Typora-Images/202309252208515.jpg)
 
-![管理员-添加公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208161.jpg)
+![管理员-添加公告](https://www.codeshop.fun/Typora-Images/202309252208161.jpg)
 
-![管理员-来访者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208101.jpg)
+![管理员-来访者管理](https://www.codeshop.fun/Typora-Images/202309252208101.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**心理**，查看导入教程视频、sql脚本和源码等
 
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
